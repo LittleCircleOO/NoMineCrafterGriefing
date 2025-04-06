@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.littlecircleoo.nominecraftergriefing.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "BlockRegisterMixin"
+  ],
+  "client": [
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

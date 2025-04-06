@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "nominecraftergriefing",
+  "version": "${version}",
+  "name": "NoMineCrafterGriefing",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/nominecraftergriefing/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.littlecircleoo.nominecraftergriefing.Nominecraftergriefing"
+    ]
+  },
+  "mixins": [
+    "nominecraftergriefing.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "*"
+  }
+}

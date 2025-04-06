@@ -16,6 +16,6 @@
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric": "*",
-    "minecraft": "*"
+    "minecraft": "1.21.6-alpha.25.14.craftmine"
   }
 }

@@ -9,11 +9,7 @@
   "license": "MIT",
   "icon": "assets/nominecraftergriefing/icon.png",
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "com.littlecircleoo.nominecraftergriefing.Nominecraftergriefing"
-    ]
-  },
+  "entrypoints": {},
   "mixins": [
     "nominecraftergriefing.mixins.json"
   ],

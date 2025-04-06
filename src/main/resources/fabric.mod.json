@@ -3,9 +3,15 @@
   "id": "nominecraftergriefing",
   "version": "${version}",
   "name": "NoMineCrafterGriefing",
-  "description": "",
-  "authors": [],
-  "contact": {},
+  "description": "A little tweak that prevents you from blowing up your own MineCrafter by mistake.",
+  "authors": [
+    "LittleCircle_OO"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/nominecraftergriefing",
+    "sources": "https://github.com/LittleCircleOO/NoMineCrafterGriefing",
+    "issues": "https://github.com/LittleCircleOO/NoMineCrafterGriefing/issues"
+  },
   "license": "MIT",
   "icon": "assets/nominecraftergriefing/icon.png",
   "environment": "*",
